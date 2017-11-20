@@ -8,3 +8,5 @@ The player can now undo and redo his/her moves. The game saves itself automatica
 GameModel and all undo and redo states (including resets) will be saved. When the player wins the game, GameModel, undo and redo
 states will be reset if the player presses "Play Again" button in the JOptionPane. The game quits if the player presses "Quit" button
 in the JOptionPane.
+
+Main method is in FloodIt.java

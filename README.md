@@ -1,4 +1,6 @@
 # Java-Programming-Assignment
+Welcome to my project.
+
 A simple FloodIt game designed with Model-View-Controller approach.
 
 The game now has two modes: Plane and Torus, as well as two directions: Orthogonal and Diagonal. The player can select game modes 

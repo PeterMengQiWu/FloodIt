@@ -1,5 +1,5 @@
-# Java-Programming-Assignment
-Welcome to my project.
+# FloodIt
+Welcome to my FloodIt game project.
 
 A simple FloodIt game designed with Model-View-Controller approach.
 

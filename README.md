@@ -12,3 +12,9 @@ states will be reset if the player presses "Play Again" button in the JOptionPan
 in the JOptionPane.
 
 Main method is in FloodIt.java
+
+To run, please install latest java development toolkit, make sure correct variables are include in Path enviroment variables. Then use command prompt to run the program by entering the following command (make sure you are in the right directory)
+```bash
+javac FloodIt
+java FloodIt.java
+```
